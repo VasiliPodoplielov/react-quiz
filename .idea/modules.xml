@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/react-quiz.iml" filepath="$PROJECT_DIR$/.idea/react-quiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../react-router-1/.idea/react-router-1.iml" filepath="$PROJECT_DIR$/../react-router-1/.idea/react-router-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../react-router-2/.idea/react-router-2.iml" filepath="$PROJECT_DIR$/../react-router-2/.idea/react-router-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../redux-start/.idea/redux-start.iml" filepath="$PROJECT_DIR$/../redux-start/.idea/redux-start.iml" />
+    </modules>
+  </component>
+</project>
